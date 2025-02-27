@@ -1,3 +1,6 @@
+-------- Array ----
 1 -> two pointers approach to
 2 -> Negative marking approach, Position and swapping approach
 3 -> XOR operation to find duplicate
+4 -> two pointer Ex- K-diff pairs (LC-532) 
+5 -> Sliding Window
