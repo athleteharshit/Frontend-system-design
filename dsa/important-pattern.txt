@@ -4,3 +4,6 @@
 3 -> XOR operation to find duplicate
 4 -> two pointer Ex- K-diff pairs (LC-532) 
 5 -> Sliding Window
+
+--------------- String ----------
+1-> two pointer (leetcode -647) expand towards outside index (Imp question and pattern)
